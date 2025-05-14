@@ -1,0 +1,4 @@
+.env
+src/models/__pycache__/
+__pycache__/
+pi_ai_env/

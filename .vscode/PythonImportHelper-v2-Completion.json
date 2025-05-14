@@ -1,0 +1,625 @@
+[
+    {
+        "label": "openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openai",
+        "description": "openai",
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "openai",
+        "description": "openai",
+        "isExtraImport": true,
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ollama",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ollama",
+        "description": "ollama",
+        "detail": "ollama",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "AsmtChatResponse",
+        "importPath": "src.routers.model",
+        "description": "src.routers.model",
+        "isExtraImport": true,
+        "detail": "src.routers.model",
+        "documentation": {}
+    },
+    {
+        "label": "AsmtChatResponseSingle",
+        "importPath": "src.routers.model",
+        "description": "src.routers.model",
+        "isExtraImport": true,
+        "detail": "src.routers.model",
+        "documentation": {}
+    },
+    {
+        "label": "Context",
+        "importPath": "src.routers.model",
+        "description": "src.routers.model",
+        "isExtraImport": true,
+        "detail": "src.routers.model",
+        "documentation": {}
+    },
+    {
+        "label": "AsmtChatResponse",
+        "importPath": "src.routers.model",
+        "description": "src.routers.model",
+        "isExtraImport": true,
+        "detail": "src.routers.model",
+        "documentation": {}
+    },
+    {
+        "label": "intent_system_prompt",
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "isExtraImport": true,
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "multiple_response_choices_prompt",
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "isExtraImport": true,
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "short_answer_prompt",
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "isExtraImport": true,
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "long_answer_prompt",
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "isExtraImport": true,
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "clarification_system_prompt",
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "isExtraImport": true,
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "irrelevant_system_prompt",
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "isExtraImport": true,
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "ELEVEN_LABS_API_KEY",
+        "importPath": "src.configuration.config",
+        "description": "src.configuration.config",
+        "isExtraImport": true,
+        "detail": "src.configuration.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_intent_response",
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "isExtraImport": true,
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "convert_text_to_speech",
+        "importPath": "src.models.ElevenLabs",
+        "description": "src.models.ElevenLabs",
+        "isExtraImport": true,
+        "detail": "src.models.ElevenLabs",
+        "documentation": {}
+    },
+    {
+        "label": "convert_speech_to_text",
+        "importPath": "src.models.OpenAISpeech",
+        "description": "src.models.OpenAISpeech",
+        "isExtraImport": true,
+        "detail": "src.models.OpenAISpeech",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "IntentResponseRouter",
+        "importPath": "src.routers",
+        "description": "src.routers",
+        "isExtraImport": true,
+        "detail": "src.routers",
+        "documentation": {}
+    },
+    {
+        "label": "SpeechProcessingRouters",
+        "importPath": "src.routers",
+        "description": "src.routers",
+        "isExtraImport": true,
+        "detail": "src.routers",
+        "documentation": {}
+    },
+    {
+        "label": "intent_system_prompt",
+        "kind": 5,
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "peekOfCode": "intent_system_prompt = '''\nYou are an expert PCI DSS auditor. \nYou have posed the following ###question to a client organization that you are auditing. \nThe detailed ###explaination_of_question, if available, is also given below. \nEvaluate the response of the user to find out that out of possible ###responses_choices, which response the user's comment maps to. \nNote that each response choice represents a seperate entity. \nThe user's comment may also map to some additional ###Actions. \nAlways give your decision/response in the following format 'The user's response maps to: <mapped choice>'.-\n###question: {0}\n###explaination_of_question: {1}",
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "multiple_response_choices_prompt",
+        "kind": 5,
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "peekOfCode": "multiple_response_choices_prompt = \"\"\"\nYou are an expert PCI DSS auditor. \nYou have posed the following ###question to a client organization that you are auditing. \nThe detailed ###explanation_of_question, if available, is also provided below. \nEvaluate the user's response to determine which of the possible ###responses_choices the user's comment maps to. \nNote that the user's comment may map to more than one response choice. \nNote that each response choice represents a seperate entity and no two entities in the choices represent the same thing and or function.\nThe user's comment may also map to some additional ###Actions.\nAlways give your decision/response in the following format 'The user's response maps to: <mapped choice(s)>'.-\n###question: {0}",
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "short_answer_prompt",
+        "kind": 5,
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "peekOfCode": "short_answer_prompt = \"\"\"\nYou are an expert PCI DSS auditor. \nYou have posed the following ###question to a client organization that you are auditing.\nThe detailed ###explanation_of_question, if available, is also provided below.  \nEvaluate whether the user's response answer's the ###question.\nThe user's comment may also map to some additional ###Actions. \nAlways give your decision/response in the following format 'The user's response maps to: <response>'.\n###question: {0}\n###explanation_of_question: {1}\n###Actions",
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "long_answer_prompt",
+        "kind": 5,
+        "importPath": "src.models.asmt_prompts",
+        "description": "src.models.asmt_prompts",
+        "peekOfCode": "long_answer_prompt = \"\"\"\nYou are an expert PCI DSS auditor. \nYou have posed the following ###question to a client organization that you are auditing. \nThe detailed ###explanation_of_question, if available, is also provided below.\nYou are expecting a response from the user.\nThe user's comment may also map to some additional ###Actions. \nEvaluate the user's response. \nEnsure that your evaluation covers whether the response addresses the ###question. \nProvide any additional feedback or insights that may help clarify or expand upon the user's answer.\nAlways give your decision/response in the following format 'The user's response maps to: <response>'.",
+        "detail": "src.models.asmt_prompts",
+        "documentation": {}
+    },
+    {
+        "label": "format_message_prompt",
+        "kind": 2,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "def format_message_prompt(question, question_explaination, response_choices, responsetype, additional_knowledge, user_comment):\n    prompt_mapping = {\n        \"radio\": intent_system_prompt,\n        \"checkbox\": multiple_response_choices_prompt,\n        \"short_answer\": short_answer_prompt,\n        \"long_answer\": long_answer_prompt\n    }\n    formatted_content = prompt_mapping.get(responsetype).format(\n        question, question_explaination, \"\\n\".join(response_choices), additional_knowledge,\n    )",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "process_chat_history",
+        "kind": 2,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "def process_chat_history(chat_history):\n    chat_history_dicts = [chat.dict() for chat in chat_history]\n    last_irrelevant_index = -1\n    i = 0\n    while i < len(chat_history_dicts):\n        if chat_history_dicts[i].get('intent') == 'Irrelevant to the question':\n            if last_irrelevant_index == i:\n                return chat_history_dicts, True\n            del chat_history_dicts[i]\n            last_irrelevant_index = i",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "clean_text",
+        "kind": 2,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "def clean_text(text):\n    replacements = {\n        \"–\": \"-\",\n        \"—\": \"-\",\n        \"’\": \"'\",\n        \"“\": \"'\",\n        \"”\": \"'\",\n        \"#\": \"\",\n        \"\\n\": \"\",\n        \"_\": \" \",",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "generate_response",
+        "kind": 2,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "def generate_response(messages):\n   # First try OpenAI GPT-4\n    try:\n        stream = client.chat.completions.create(\n            model=\"gpt-4o-mini\",\n            messages=messages,\n            temperature=0.7,\n            max_tokens=80,\n            top_p=1\n        )",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "get_intent_response",
+        "kind": 2,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "def get_intent_response(question, question_explaination, response_choices, responsetype, user_comment, additional_knowledge, chat_history):\n    if responsetype not in [\"radio\", \"checkbox\", \"short_answer\", \"long_answer\"]:\n        raise ValueError(\"Invalid question type\")\n    message_prompt = format_message_prompt(question, question_explaination, response_choices, responsetype, additional_knowledge, user_comment)\n    chat_history_dicts, consecutive_irrelevant_found = process_chat_history(chat_history)\n    chat_history_dicts.extend(message_prompt)\n    if consecutive_irrelevant_found:\n        return AsmtChatResponse(response=[\n            AsmtChatResponseSingle(role=\"user\", content=user_comment, intent=\"Good Response\"),\n            AsmtChatResponseSingle(role=\"assistant\", content=\"STOP\", intent=\"STOP\")",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "process_response",
+        "kind": 2,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "def process_response(result, question, question_explaination, response_choices, responsetype, user_comment, additional_knowledge, chat_history):\n    if responsetype == \"checkbox\":\n      if \"Asking Clarifying question\" in result:\n        return get_clarification(question, question_explaination, response_choices, responsetype, user_comment, additional_knowledge, chat_history)\n      elif \"Irrelevant to the question\" in result:\n         return get_irrelevant_response(question, question_explaination, response_choices, responsetype, user_comment, additional_knowledge, chat_history)\n      else:\n        mapped_choices = result.split(\", \")  # The result contains a comma-separated list of choices mapped by the model\n        return AsmtChatResponse(response=[\n          AsmtChatResponseSingle(role=\"user\", content=user_comment, intent=\"Good Response\"),",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "get_clarification",
+        "kind": 2,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "def get_clarification(question, question_explaination, response_choices, responsetype, user_comment, additional_knowledge, chat_history):\n    message_prompt = [\n        {\"role\": \"system\", \"content\": clarification_system_prompt.format(question, question_explaination, response_choices, additional_knowledge)},\n        {\"role\": \"user\", \"content\": user_comment}\n    ]\n    return handle_response(message_prompt, chat_history, user_comment, \"Clarifying Question\", \"Speak the response\")\ndef get_irrelevant_response(question, question_explaination, response_choices, responsetype, user_comment, additional_knowledge, chat_history):\n    message_prompt = [\n        {\"role\": \"system\", \"content\": irrelevant_system_prompt.format(question, question_explaination, response_choices)},\n        {\"role\": \"user\", \"content\": user_comment}",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "get_irrelevant_response",
+        "kind": 2,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "def get_irrelevant_response(question, question_explaination, response_choices, responsetype, user_comment, additional_knowledge, chat_history):\n    message_prompt = [\n        {\"role\": \"system\", \"content\": irrelevant_system_prompt.format(question, question_explaination, response_choices)},\n        {\"role\": \"user\", \"content\": user_comment}\n    ]\n    return handle_response(message_prompt, chat_history, user_comment, \"Irrelevant to the question\", \"Speak the response\")\ndef handle_response(message_prompt, chat_history, user_comment, user_intent, assistant_intent):\n    chat_history_dicts, consecutive_irrelevant_found = process_chat_history(chat_history)\n    chat_history_dicts.extend(message_prompt)\n    if consecutive_irrelevant_found:",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "handle_response",
+        "kind": 2,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "def handle_response(message_prompt, chat_history, user_comment, user_intent, assistant_intent):\n    chat_history_dicts, consecutive_irrelevant_found = process_chat_history(chat_history)\n    chat_history_dicts.extend(message_prompt)\n    if consecutive_irrelevant_found:\n        return AsmtChatResponse(response=[\n            AsmtChatResponseSingle(role=\"user\", content=user_comment, intent=user_intent),\n            AsmtChatResponseSingle(role=\"assistant\", content=\"STOP\", intent=\"STOP\")\n        ])\n    response_text = generate_response(chat_history_dicts)\n    response_text = clean_text(response_text)",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "kind": 5,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "OPENAI_KEY = os.getenv('OPEN_AI_KEY')\nOPENAI_ORG = os.getenv('OPEN_AI_ORG')\nOPENAI_PROJ = os.getenv('OPENAI_PROJ')\nclient = OpenAI(organization=OPENAI_ORG, project=OPENAI_PROJ, api_key=OPENAI_KEY)\nOLLAMA_MODELS = [\"gemma3:4b\", \"phi4-mini:3.8b\", \"qwen2.5:3b\", \"mistral:7b-instruct\", \"deepseek-r1:1.5b\", \"deepseek-llm:7b\"]\ndef format_message_prompt(question, question_explaination, response_choices, responsetype, additional_knowledge, user_comment):\n    prompt_mapping = {\n        \"radio\": intent_system_prompt,\n        \"checkbox\": multiple_response_choices_prompt,\n        \"short_answer\": short_answer_prompt,",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_ORG",
+        "kind": 5,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "OPENAI_ORG = os.getenv('OPEN_AI_ORG')\nOPENAI_PROJ = os.getenv('OPENAI_PROJ')\nclient = OpenAI(organization=OPENAI_ORG, project=OPENAI_PROJ, api_key=OPENAI_KEY)\nOLLAMA_MODELS = [\"gemma3:4b\", \"phi4-mini:3.8b\", \"qwen2.5:3b\", \"mistral:7b-instruct\", \"deepseek-r1:1.5b\", \"deepseek-llm:7b\"]\ndef format_message_prompt(question, question_explaination, response_choices, responsetype, additional_knowledge, user_comment):\n    prompt_mapping = {\n        \"radio\": intent_system_prompt,\n        \"checkbox\": multiple_response_choices_prompt,\n        \"short_answer\": short_answer_prompt,\n        \"long_answer\": long_answer_prompt",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_PROJ",
+        "kind": 5,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "OPENAI_PROJ = os.getenv('OPENAI_PROJ')\nclient = OpenAI(organization=OPENAI_ORG, project=OPENAI_PROJ, api_key=OPENAI_KEY)\nOLLAMA_MODELS = [\"gemma3:4b\", \"phi4-mini:3.8b\", \"qwen2.5:3b\", \"mistral:7b-instruct\", \"deepseek-r1:1.5b\", \"deepseek-llm:7b\"]\ndef format_message_prompt(question, question_explaination, response_choices, responsetype, additional_knowledge, user_comment):\n    prompt_mapping = {\n        \"radio\": intent_system_prompt,\n        \"checkbox\": multiple_response_choices_prompt,\n        \"short_answer\": short_answer_prompt,\n        \"long_answer\": long_answer_prompt\n    }",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "client = OpenAI(organization=OPENAI_ORG, project=OPENAI_PROJ, api_key=OPENAI_KEY)\nOLLAMA_MODELS = [\"gemma3:4b\", \"phi4-mini:3.8b\", \"qwen2.5:3b\", \"mistral:7b-instruct\", \"deepseek-r1:1.5b\", \"deepseek-llm:7b\"]\ndef format_message_prompt(question, question_explaination, response_choices, responsetype, additional_knowledge, user_comment):\n    prompt_mapping = {\n        \"radio\": intent_system_prompt,\n        \"checkbox\": multiple_response_choices_prompt,\n        \"short_answer\": short_answer_prompt,\n        \"long_answer\": long_answer_prompt\n    }\n    formatted_content = prompt_mapping.get(responsetype).format(",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "OLLAMA_MODELS",
+        "kind": 5,
+        "importPath": "src.models.ChatGPT",
+        "description": "src.models.ChatGPT",
+        "peekOfCode": "OLLAMA_MODELS = [\"gemma3:4b\", \"phi4-mini:3.8b\", \"qwen2.5:3b\", \"mistral:7b-instruct\", \"deepseek-r1:1.5b\", \"deepseek-llm:7b\"]\ndef format_message_prompt(question, question_explaination, response_choices, responsetype, additional_knowledge, user_comment):\n    prompt_mapping = {\n        \"radio\": intent_system_prompt,\n        \"checkbox\": multiple_response_choices_prompt,\n        \"short_answer\": short_answer_prompt,\n        \"long_answer\": long_answer_prompt\n    }\n    formatted_content = prompt_mapping.get(responsetype).format(\n        question, question_explaination, \"\\n\".join(response_choices), additional_knowledge,",
+        "detail": "src.models.ChatGPT",
+        "documentation": {}
+    },
+    {
+        "label": "convert_text_to_speech",
+        "kind": 2,
+        "importPath": "src.models.ElevenLabs",
+        "description": "src.models.ElevenLabs",
+        "peekOfCode": "def convert_text_to_speech(message):\n    # define data (Body)\n    body ={\n        \"text\": message,\n        \"voice_settings\" :{\n            \"stability\": 0,\n            \"similarity_boost\": 0,\n        }\n    }\n    # Define voice",
+        "detail": "src.models.ElevenLabs",
+        "documentation": {}
+    },
+    {
+        "label": "convert_speech_to_text",
+        "kind": 2,
+        "importPath": "src.models.OpenAISpeech",
+        "description": "src.models.OpenAISpeech",
+        "peekOfCode": "def convert_speech_to_text(audio_file):\n    try:\n        transcript = openai.Audio.transcribe(\"whisper-1\", audio_file)\n        message_text = transcript[\"text\"]\n        return message_text\n    except Exception as e:\n        print(e)\n        return",
+        "detail": "src.models.OpenAISpeech",
+        "documentation": {}
+    },
+    {
+        "label": "openai.organization",
+        "kind": 5,
+        "importPath": "src.models.OpenAISpeech",
+        "description": "src.models.OpenAISpeech",
+        "peekOfCode": "openai.organization = organization\nopenai.api_key = api_key\ndef convert_speech_to_text(audio_file):\n    try:\n        transcript = openai.Audio.transcribe(\"whisper-1\", audio_file)\n        message_text = transcript[\"text\"]\n        return message_text\n    except Exception as e:\n        print(e)\n        return",
+        "detail": "src.models.OpenAISpeech",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "src.models.OpenAISpeech",
+        "description": "src.models.OpenAISpeech",
+        "peekOfCode": "openai.api_key = api_key\ndef convert_speech_to_text(audio_file):\n    try:\n        transcript = openai.Audio.transcribe(\"whisper-1\", audio_file)\n        message_text = transcript[\"text\"]\n        return message_text\n    except Exception as e:\n        print(e)\n        return",
+        "detail": "src.models.OpenAISpeech",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.routers.IntentResponseRouter",
+        "description": "src.routers.IntentResponseRouter",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/response\", response_model=AsmtChatResponse)\nasync def get_intent_and_response(context: Context):\n    if context.chatHistory is not None:\n        chat = context.chatHistory\n    else:\n        chat = []\n    response = get_intent_response(context.question, context.question_explaination, context.possible_responses, context.responsetype, context.user_comment,\n                                   context.additional_knowledge, chat)\n    return response",
+        "detail": "src.routers.IntentResponseRouter",
+        "documentation": {}
+    },
+    {
+        "label": "chatHistory",
+        "kind": 6,
+        "importPath": "src.routers.model",
+        "description": "src.routers.model",
+        "peekOfCode": "class chatHistory(BaseModel):\n    role: str\n    content: str\n    intent: str\nclass Context(BaseModel):\n    question: str\n    responsetype: str # adding answer type (single, multiple, short or long) to context\n    possible_responses: List[str]\n    user_comment: str\n    additional_knowledge: str",
+        "detail": "src.routers.model",
+        "documentation": {}
+    },
+    {
+        "label": "Context",
+        "kind": 6,
+        "importPath": "src.routers.model",
+        "description": "src.routers.model",
+        "peekOfCode": "class Context(BaseModel):\n    question: str\n    responsetype: str # adding answer type (single, multiple, short or long) to context\n    possible_responses: List[str]\n    user_comment: str\n    additional_knowledge: str\n    question_explaination: str\n    chatHistory: List[chatHistory]\nclass AsmtChatResponseSingle(BaseModel):\n    content: str",
+        "detail": "src.routers.model",
+        "documentation": {}
+    },
+    {
+        "label": "AsmtChatResponseSingle",
+        "kind": 6,
+        "importPath": "src.routers.model",
+        "description": "src.routers.model",
+        "peekOfCode": "class AsmtChatResponseSingle(BaseModel):\n    content: str\n    intent: Optional[str] = None\n    role: str\nclass AsmtChatResponse(BaseModel):\n    response: List[AsmtChatResponseSingle]",
+        "detail": "src.routers.model",
+        "documentation": {}
+    },
+    {
+        "label": "AsmtChatResponse",
+        "kind": 6,
+        "importPath": "src.routers.model",
+        "description": "src.routers.model",
+        "peekOfCode": "class AsmtChatResponse(BaseModel):\n    response: List[AsmtChatResponseSingle]",
+        "detail": "src.routers.model",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.routers.SpeechProcessingRouters",
+        "description": "src.routers.SpeechProcessingRouters",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/text-to-speech\")\nasync def text_to_speech(request: Request):\n    # Extract JSON data from the request body\n    data = await request.json()\n    text = data['text']  # Access the text field directly\n    audio_output = convert_text_to_speech(text)\n    # Create a generator that yields chunks of data\n    def iterfile():\n        yield audio_output",
+        "detail": "src.routers.SpeechProcessingRouters",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\napp.include_router(IntentResponseRouter.router)\napp.include_router(SpeechProcessingRouters.router)\nif __name__ == \"__main__\":\n    uvicorn.run(app, host=\"0.0.0.0\", port=8001)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "client = OpenAI(\n  organization='org-QfkXSYTTOVxDVKO30ZxwXfAv',\n  project='proj_jhBGXwroVW3oWnlsoFcr1G1Z',\n  api_key= \"sk-Pct3_cnOKaMvyvy5ZCwU0X-jDqEMj9spg5rIezADNGT3BlbkFJLTCTcn3oEK-Qn0GnoHnWmt_hUHItB7DanbbIkLp2MA\"\n)\nsystem_prompt ='''You are an experienced PCI DSS auditor. Given the following ###question, and possible ###responses_choices, as the overarching context, evaluate the response of the user to find out which reponse the user's comment maps to. The user's comment may also map to some additional ###Actions. \n  Always give your decision/response in the following format 'The user's response maps to: <mapped choice>'.-\n###question: What type of merchant you are?\n###responses_choices -\nOnline",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "stream",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "stream = client.chat.completions.create(\n  # model=\"gpt-4\",\n  model = \"gpt-4o-mini\",\n  messages=[\n    {\n      \"role\": \"system\",\n      \"content\": system_prompt\n    },\n    {\n      \"role\": \"user\",",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "resp",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "resp = \"\"\n# for chunk in stream:\n#     if chunk.choices[0].delta.content is not None:\n#         print(chunk.choices[0].delta.content, end=\"\")\nfor choice in stream.choices:\n  resp = resp + \" \" + choice.message.content\nprint(resp)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "test_helloworld",
+        "description": "test_helloworld",
+        "peekOfCode": "client = OpenAI(\n  organization='org-QfkXSYTTOVxDVKO30ZxwXfAv',\n  project='proj_jhBGXwroVW3oWnlsoFcr1G1Z',\n  api_key= \"sk-Pct3_cnOKaMvyvy5ZCwU0X-jDqEMj9spg5rIezADNGT3BlbkFJLTCTcn3oEK-Qn0GnoHnWmt_hUHItB7DanbbIkLp2MA\"\n)\nfrom openai import OpenAI\n# client = OpenAI(\"sk-Pct3_cnOKaMvyvy5ZCwU0X-jDqEMj9spg5rIezADNGT3BlbkFJLTCTcn3oEK-Qn0GnoHnWmt_hUHItB7DanbbIkLp2MA\")\nstream = client.chat.completions.create(\n    model=\"gpt-4o-mini\",\n    messages=[{\"role\": \"user\", \"content\": \"Say this is a test\"}],",
+        "detail": "test_helloworld",
+        "documentation": {}
+    },
+    {
+        "label": "stream",
+        "kind": 5,
+        "importPath": "test_helloworld",
+        "description": "test_helloworld",
+        "peekOfCode": "stream = client.chat.completions.create(\n    model=\"gpt-4o-mini\",\n    messages=[{\"role\": \"user\", \"content\": \"Say this is a test\"}],\n    stream=True,\n)\nfor chunk in stream:\n    if chunk.choices[0].delta.content is not None:\n        print(chunk.choices[0].delta.content, end=\"\")\n# [\n#       {",
+        "detail": "test_helloworld",
+        "documentation": {}
+    }
+]
