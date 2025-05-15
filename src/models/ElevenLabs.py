@@ -1,6 +1,7 @@
 from fastapi import requests
 
-from src.configuration.config import ELEVEN_LABS_API_KEY
+from src.configuration.fetch_aws_secrets import fetch_secrets
+OPEN_AI_KEY, OPEN_AI_ORG, OPEN_AI_PROJ, ELEVEN_LABS_API_KEY = fetch_secrets()
 
 
 def convert_text_to_speech(message):

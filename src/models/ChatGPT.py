@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 import ollama
 import re
 from src.routers.model import AsmtChatResponse, AsmtChatResponseSingle
+from src.configuration.fetch_aws_secrets import fetch_secrets
 from src.models.asmt_prompts import (
     intent_system_prompt,
     multiple_response_choices_prompt,
@@ -12,6 +13,8 @@ from src.models.asmt_prompts import (
     clarification_system_prompt,
     irrelevant_system_prompt
 )
+
+OPEN_AI_KEY, OPEN_AI_ORG, OPEN_AI_PROJ, ELEVEN_LABS_API_KEY = fetch_secrets()
 
 load_dotenv()
 OPENAI_KEY = os.getenv('OPEN_AI_KEY')
